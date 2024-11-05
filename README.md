@@ -5,6 +5,5 @@
 	- #### Lotto Experience 프로젝트[(링크)](https://github.com/LeeKangHo1/lottoTeam3)
 	- #### Stock Simulation 프로젝트[(링크)](https://github.com/LeeKangHo1/Magnificent_Architects)
  
-<a href="https://github.com/LeeKangHo1">
   <img src="https://github-readme-stats.vercel.app/api?username=LeeKangHo1" width="360"/>
-</a>
+
