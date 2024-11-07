@@ -8,5 +8,5 @@
 - #### 개인 연습
 	- #### CustomerQnA 게시판[(링크)](https://github.com/LeeKangHo1/CustomerQnA)
  <a href="https://github.com/LeeKangHo1">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeeKangHo1" width="360"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LeeKangHo1&locale=kr" width="360"/>
  </a>
