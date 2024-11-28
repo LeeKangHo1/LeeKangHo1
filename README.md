@@ -1,3 +1,5 @@
+- ### 프로그래밍 공부 정리 개인 블로그[(링크)](https://inblog.ai/devleekangho)
+
 - ### 수업 내용 정리[(링크)](https://github.com/LeeKangHo1/My-Java-study)
 
 - ### 팀 프로젝트
