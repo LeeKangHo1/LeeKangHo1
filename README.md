@@ -3,6 +3,7 @@
 - ### 수업 내용 정리[(링크)](https://github.com/LeeKangHo1/My-Java-study) (2024년 5월 27일 ~ 11월 8일)
 
 - ### 팀 프로젝트
+	- ### 이상형 월드컵 프로젝트[(링크)](https://github.com/LeeKangHo1/projectwc)
 	- ### SubKing 프로젝트[(링크)](https://github.com/LeeKangHo1/SUBKINGproject)
 	- ### Lotto Experience 프로젝트[(링크)](https://github.com/LeeKangHo1/lottoTeam3)
 	- ### Stock Simulation 프로젝트[(링크)](https://github.com/LeeKangHo1/Magnificent_Architects)
