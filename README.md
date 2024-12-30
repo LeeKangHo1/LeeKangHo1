@@ -1,4 +1,4 @@
-- ### 프로그래밍 공부 정리 개인 블로그[(링크)](https://inblog.ai/devleekangho) (2024년 11월 11일 ~)
+- ### 프로그래밍 공부 정리 개인 블로그[(링크)](https://inblog.ai/devleekangho/category/프로젝트) (2024년 11월 11일 ~)
 
 - ### 팀 프로젝트
 	- ### 이상형 월드컵 프로젝트[(링크)](https://github.com/LeeKangHo1/projectwc)
