@@ -8,7 +8,7 @@
  </a>
  
 ---
-- #### 기본 과정 내용 정리 (2024년 5월 27일 ~ 11월 8일)
+- ####  (디지털컨버전스) 자바(JAVA)/스프링 개발자 양성과정 내용 정리 (2024년 5월 27일 ~ 11월 8일)
 	- ##### 수업 내용 정리[(링크)](https://github.com/LeeKangHo1/My-Java-study)
 	- ##### Lotto Experience 프로젝트[(링크)](https://github.com/LeeKangHo1/lottoTeam3)
   	- ##### CustomerQnA 게시판 연습[(링크)](https://github.com/LeeKangHo1/CustomerQnA)
