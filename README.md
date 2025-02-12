@@ -2,9 +2,9 @@
 
 - ### 팀 프로젝트
 	- ### 이상형 월드컵 프로젝트[(링크)](https://github.com/LeeKangHo1/projectwc)
+   	- ### Planit 프로젝트[(링크)](https://github.com/LeeKangHo1/project-planit-flutter-server)
 	- ### SubKing 프로젝트[(링크)](https://github.com/LeeKangHo1/SUBKINGproject)
- 	- ### Planit 프로젝트[(링크)](https://github.com/LeeKangHo1/project-planit-flutter-server)
-	
+ 		
  <a href="https://github.com/LeeKangHo1">
   <img src="https://github-readme-stats.vercel.app/api?username=LeeKangHo1&locale=kr" width="360"/>
  </a>
