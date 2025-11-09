@@ -1,7 +1,15 @@
-- ### AI 응용 서비스 개발자 (2025년 6월 ~ )
+- ### AI 응용 서비스 개발자 (2025년 5월 ~ )
 
 - ### Python 개인 프로젝트
-	- ### AI Skill Tutor[(링크)](https://github.com/LeeKangHo1/ai-skill-tutor))
+	- ### AI Skill Tutor Project[(링크)](https://github.com/LeeKangHo1/ai-skill-tutor))
+- ### 기술 스택
+	- 백엔드: Python, FastAPI, Flask
+ 	- 프론트엔드: Vue3, Bootstrap, Vuetify 
+ 	- LangChain, LangGrapgh, LangSmith
+  	- RAG, Multi-Agent System(Agentic System), Fine-Tuning 	
+  	- MySQL, MariaDB, ChromaDB
+  	- Docker, 배포(Ubuntu, nginx, uvicorn)
+  	- Java, Spring, Flutter 기본 지식 보유
  		
  <a href="https://github.com/LeeKangHo1">
   <img src="https://github-readme-stats.vercel.app/api?username=LeeKangHo1&locale=kr" width="360"/>
