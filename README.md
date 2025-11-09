@@ -6,7 +6,8 @@
 	- 백엔드: Python, FastAPI, Flask
  	- 프론트엔드: Vue3, Bootstrap, Vuetify 
  	- LangChain, LangGrapgh, LangSmith
-  	- RAG, Multi-Agent System(Agentic System), Fine-Tuning 	
+  	- RAG, Multi-Agent System(Agentic System), Fine-Tuning
+  	- 코딩 에이전트: Claude Code, Gemini CLI, Codex, Kiro, Github Copilot 	
   	- MySQL, MariaDB, ChromaDB
   	- Docker, 배포(Ubuntu, nginx, uvicorn)
   	- Java, Spring, Flutter 기본 지식 보유
