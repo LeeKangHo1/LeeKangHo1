@@ -1,4 +1,4 @@
-- ### AI 응용 서비스 개발자 (2025년 5월 ~ )
+- ## AI 응용 서비스 개발자 (2025년 5월 ~ )
 
 - ### Python 개인 프로젝트
 	- ### AI Skill Tutor Project[(링크)](https://github.com/LeeKangHo1/ai-skill-tutor))
